@@ -1,4 +1,4 @@
-package cho2;
+package ch02;
 
 import java.sql.*;
 

@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed1a7748-cd3b-4f15-ae1a-c05a39263992" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch03/JavaJDBCExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/JavaJDBCExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/CafeMenuManger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cho2/JDBCExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cho2/JDBCExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cho2/JDBCExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/JDBCExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cho2/JDBCExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/JDBCExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,32 +35,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CafeMenuManger.executor": "Run",
-    "Application.JDBCExample.executor": "Run",
-    "Application.JDBCExample2.executor": "Run",
-    "Application.JavaJDBCExample3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/class_work_java_v2/java_useful",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CafeMenuManger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaJDBCExample3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java_workspace/class_work_java_v2/java_jdbc/lib/mysql-connector-java-8.0.30.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;애플리케이션.CafeMenuManger.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java_workspace\class_work_java_v2\java_jdbc\lib" />
       <recent name="C:\class_work_java_v2\java_jdbc\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CafeMenuManger">
+  <component name="RunManager">
     <configuration name="CafeMenuManger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch04.CafeMenuManger" />
       <module name="java_jdbc" />
@@ -78,11 +78,11 @@
       </method>
     </configuration>
     <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cho2.JDBCExample" />
+      <option name="MAIN_CLASS_NAME" value="ch02.JDBCExample" />
       <module name="java_jdbc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cho2.*" />
+          <option name="PATTERN" value="ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="JDBCExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cho2.JDBCExample2" />
+      <option name="MAIN_CLASS_NAME" value="ch02.JDBCExample2" />
       <module name="java_jdbc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cho2.*" />
+          <option name="PATTERN" value="ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,14 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CafeMenuManger" />
-        <item itemvalue="Application.JDBCExample2" />
-        <item itemvalue="Application.JavaJDBCExample3" />
-        <item itemvalue="Application.JDBCExample" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
