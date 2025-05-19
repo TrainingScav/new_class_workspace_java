@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed1a7748-cd3b-4f15-ae1a-c05a39263992" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_jdbc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cho2/JDBCExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/JDBCExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cho2/JDBCExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/JDBCExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
