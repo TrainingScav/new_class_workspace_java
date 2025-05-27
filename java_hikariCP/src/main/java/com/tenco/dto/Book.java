@@ -1,5 +1,7 @@
 package com.tenco.dto;
 
+import lombok.*;
+
 @Getter
 @Setter
 @NoArgsConstructor
